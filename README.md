@@ -19,3 +19,6 @@
      npx create-react-app 폴더명 (리액트 사이트 - 새로운 react사이트 만들기)
      cd 폴더명
      npm start
+# 💛 4. SPA : Single Page Application
+     페이지는 하나인데 여러개인 것처럼 눈속임을 한다. --> 자바스크립트가 해준다. 페이지를 매번 새로고침 할 필요가 없음. 
+     웹 사이트를 모바일앱처럼 사용할 수 있음.
