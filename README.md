@@ -22,3 +22,12 @@
 # 💛 4. SPA : Single Page Application
      페이지는 하나인데 여러개인 것처럼 눈속임을 한다. --> 자바스크립트가 해준다. 페이지를 매번 새로고침 할 필요가 없음. 
      웹 사이트를 모바일앱처럼 사용할 수 있음.
+
+# VS CODE 확장프로그램
+  저장할 때 코드 정렬되도록
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/0a61a5d2-2b1a-49a9-8c1b-a63f62e13800)
+
+# setting 설정
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/20a90c2f-536a-451d-8709-e776e7d2ba4c)
+
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/26b2592a-9ce2-46bd-854e-a007600a49d1)
