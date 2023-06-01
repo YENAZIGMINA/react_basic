@@ -14,6 +14,8 @@
 # 함수만들기 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/aae9e540-c8ef-4483-bf46-eaef8e91cfad)
 
-# 화살표 함수로 함수만들기
- *funtion 지우고 화살표함수 작성
+# 화살표 함수로 함수만들기 (funtion 지우고 화살표함수 작성)
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9c103139-e2d8-4851-9402-8da1c2aa41b9)
+
+# 함수를 밖으로 빼기
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/2a453963-62ef-4bbd-9a31-bdd91f515d12)
