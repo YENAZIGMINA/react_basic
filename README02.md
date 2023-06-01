@@ -18,4 +18,4 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9c103139-e2d8-4851-9402-8da1c2aa41b9)
 
 # 함수를 밖으로 빼기
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/2a453963-62ef-4bbd-9a31-bdd91f515d12)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ee1dd573-4978-49c8-9c54-627a9c3c3f3f)
