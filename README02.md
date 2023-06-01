@@ -10,3 +10,10 @@
 
 # ->해결방법  : 부모태그로 싸주어야 한다(ex. <div>) or Fragment로(<>) 싸주어야 한다.
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/6fded317-7928-41b4-8ba4-168010d81ec9)
+
+# 함수만들기 
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/aae9e540-c8ef-4483-bf46-eaef8e91cfad)
+
+# 화살표 함수로 함수만들기
+  funtion 지우고 화살표함수 작성
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9c103139-e2d8-4851-9402-8da1c2aa41b9)
