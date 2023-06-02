@@ -33,4 +33,4 @@
 
   ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/48003a52-1f1a-4326-8b6d-cd98d121a567)
 ==> 해결책) 리랜더링이 일어나게 하려면 useState(react Hook)을 사용해야한다.
- ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/005864b4-1138-4625-a0a0-cfe7fc2eca8d)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/536549f7-a0db-45c1-8e9f-9f7563abb92c)
