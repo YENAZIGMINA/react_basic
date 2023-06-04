@@ -21,7 +21,7 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ee1dd573-4978-49c8-9c54-627a9c3c3f3f)
  
  # 클릭하면 함수실행(Event Handling)
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/2fa5392a-a9a5-45ce-a15a-79229a14414a)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9cfa1d9c-7df3-40aa-841b-6886ef34b21d)
 ==> 화살표함수로 바뀜
   ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/86be1c6e-9467-4948-bf47-3c53132e61c0)
 
