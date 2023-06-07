@@ -1,6 +1,6 @@
 # children 에 대한 설명 --#react5 폴더 참조
 
-# ➰netlify에 배포할 때 deploy 하기 전 중간칸에 CI=false 작성해줘야 함
+ *➰netlify에 배포할 때 deploy 하기 전 중간칸에 CI=false 작성해줘야 함
 
 # form 에서는 onClick 대신 onSubmit 이벤트를 사용한다.
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ea14ca09-001e-48d5-bf1f-c56e26f1a3d4)
