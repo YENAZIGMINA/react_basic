@@ -25,3 +25,6 @@
 # useEffect - console
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/51447cb0-869a-4ac7-add6-6e1d58a88f41)
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/520ec5fe-34c1-474e-87b4-6caacdb3b332)
+
+# components폴더 생성후 
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/782f8145-a1d6-4055-9dae-920d67eadebd)
