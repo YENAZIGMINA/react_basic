@@ -14,3 +14,10 @@
 
 # 더하기,빼기 동시에
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f9eb79b2-9a32-48a8-bac5-9648a16fe473)
+
+
+----------------------------------------------------------------------------------------------------------------
+
+# useEffect
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/c2f92372-ee9d-46da-9407-46a88111b717)
+
