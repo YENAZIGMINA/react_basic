@@ -21,3 +21,7 @@
 # useEffect
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/c2f92372-ee9d-46da-9407-46a88111b717)
 
+
+# useEffect - console
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/51447cb0-869a-4ac7-add6-6e1d58a88f41)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/520ec5fe-34c1-474e-87b4-6caacdb3b332)
