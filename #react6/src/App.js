@@ -1,29 +1,28 @@
 import { useState } from 'react';
 import './App.css';
+import Counter from './components/Counter';
 
 function App() {
-  const [username, setUsername]=useState('');
-  const [password, setPassword]=useState('');
-  const onSubmit=(e)=>{
-    e.preventDefault(); //❗새로고침 안되도록 막음
-    //form은 전송후에 refresh(새로고침) 발생함
-    console.log(username, password)
+  const [buttonName, setButtonName]=useState("!!클릭!!");
+
+  const clickButton =()=>{
+    setButtonName('바꾸기')
   }
 
-  //✔onChange는 input의 값을 바꿀 때마다 실행하는 함수
-  //✔form은 onSubmit을 사용해서 함수를 만든다
   return (
     <>
-    <form onSubmit={onSubmit}>
-      <input placeholder='Username' value={username}
-      onChange={(e)=>{setUsername(e.target.value)}}
-      /><br/>
+    <h1>컴퍼넌트</h1>
+    <div>{buttonName}</div><br/>
 
-      <input placeholder='Password' value={password}
-      onChange={(e)=>{setPassword(e.target.value)}}
-      /><br/>
-      <button type='submit'>Update!</button>
-    </form>
+    <Counter click="click1_"/>
+    <Counter click={2}/> 
+                   {/* ✔문자는 ""로, 변수&숫자는 {}로 감싸기 */}
+    <Counter click={buttonName}/>
+    <Counter click={`${buttonName}4~`}/>
+
+    <br/>
+    {/* 버튼에 들어있는 클릭글자 '바꾸기'로 변경 */}
+    <button onClick={clickButton}>button</button>
     </>
   );
 }
