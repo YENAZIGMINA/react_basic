@@ -33,4 +33,7 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/0e609b50-9e18-491e-a28a-496ef97a176a)
  *웹브라우저 결과화면
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/90ecd015-c320-459e-8d73-e503d534cf7f)
+ *클릭후 변경됨
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ad515268-13f9-4adb-b87c-60fc1743971c)
+
 
