@@ -30,8 +30,7 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/782f8145-a1d6-4055-9dae-920d67eadebd)
 
 # 자식요소에 값 전달
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/e823ff82-dd51-40de-bb8e-b41cca28ad68)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/0e609b50-9e18-491e-a28a-496ef97a176a)
  *웹브라우저 결과화면
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/90ecd015-c320-459e-8d73-e503d534cf7f)
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/0e609b50-9e18-491e-a28a-496ef97a176a)
 
