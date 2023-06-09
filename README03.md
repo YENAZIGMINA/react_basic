@@ -28,3 +28,6 @@
 
 # components폴더 생성후 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/782f8145-a1d6-4055-9dae-920d67eadebd)
+
+# 자식요소에 값 전달
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/e823ff82-dd51-40de-bb8e-b41cca28ad68)
