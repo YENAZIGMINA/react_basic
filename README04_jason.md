@@ -1,4 +1,4 @@
-#
+#부트스트랩 css cdn 복붙 (public - index.html에)
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/d96cfff2-819f-479e-ae97-e5da9c8ec8c3)
 
