@@ -29,9 +29,18 @@
  
         npm i axios
         
- *terminal에서 새창 열어서 위 내용 복붙
+ *terminal에서 새창 열어서 위 내용 복붙 --> db.json 연결끊지 않고 해야하기 때문!!
  ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/48fd60d0-2dff-4a7c-8075-4ead3b0da706)
 
 *App.js 상단에 복붙
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f5954cff-0685-495d-b807-61cc1936069c)
 
+*
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/a854000d-0684-4d65-b05b-ac82c87bf5a7)
+
+        const onSubmit = () => {
+        axios.post("http://localhost:3004/posts", {
+         title: title,
+         body: body,
+          });
+         };
