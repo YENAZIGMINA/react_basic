@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "제목33",
+      "body": "내용33",
+      "id": 2
+    }
+  ]
+}
