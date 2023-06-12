@@ -4,6 +4,8 @@
 
     npm i json-server
     
+  
+ # db.json 파일만들기
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/6a4fef8d-54bc-4683-b6b7-6904d7d1442b)
 
 
