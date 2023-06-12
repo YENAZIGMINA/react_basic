@@ -39,8 +39,14 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/a854000d-0684-4d65-b05b-ac82c87bf5a7)
 
         const onSubmit = () => {
+        
+        ✔axios.post 작성하고
+        ✔db.json의 터미널 Resources 주소 복붙 "http://localhost:3004/posts"
+        
         axios.post("http://localhost:3004/posts", {
          title: title,
          body: body,
           });
          };
+         
+         ✔title, body 작성
