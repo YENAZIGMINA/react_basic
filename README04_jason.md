@@ -23,3 +23,7 @@
           ❗위 내용이 실행 안되면, 아래내용 terminal에 입력한다
           
         npx json-server --watch db.json --port 3004
+        
+ # 🎀 서버와 통신하기 (npm axios)       
+ ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/82248f7f-0129-4043-93c0-300000a2afd7)
+
