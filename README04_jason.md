@@ -28,4 +28,10 @@
  ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/82248f7f-0129-4043-93c0-300000a2afd7)
  
         npm i axios
+        
+ *terminal에서 새창 열어서 위 내용 복붙
+ ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/48fd60d0-2dff-4a7c-8075-4ead3b0da706)
+
+*App.js 상단에 복붙
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f5954cff-0685-495d-b807-61cc1936069c)
 
