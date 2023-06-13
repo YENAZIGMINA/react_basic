@@ -1,8 +1,11 @@
 # 🎀 부트스트랩 css cdn 복붙 (public - index.html에)
 
 
+# app.js 작성
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/df2603ac-2859-4d99-93dc-98f5a4d8c498)
 
-# 🎀 1) json 서버 연결하기
+
+# 🎀 1) json 서버 연결하기 - 터미널에 작성
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/d96cfff2-819f-479e-ae97-e5da9c8ec8c3)
 
@@ -16,14 +19,17 @@
 
 #  가장 root에 db.json 파일생성
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f14ee1fd-0992-47b1-85bb-517e8844a985)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/061dd168-8bdd-479c-846d-dd93e3dca472)
+
 
 
 
 # 🎀 4) db.json 실행하기 - terminal 입력
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9d3f83f7-9ba7-49bf-b603-939ab9b324a2)
 
-*위와 같이 실행하면 port를 3000번을 사용하기 때문에 react와 중복이 된다
+*위와 같이 실행하면 기본 리액트는 port를 3000번을 사용하기 때문에 react와 중복이 된다
 *그래서 port를 변경해주어야 한다!
+------------------------------------------------------------------------------------
 
         json-server --watch db.json --port 3004
         
@@ -31,10 +37,11 @@
           
         npx json-server --watch db.json --port 3004
         
+-------------------------------------------------------------------------------------        
         
         
         
- # 🎀 5) 서버와 통신하기 (npm axios)
+ # 🎀 5) 서버와 통신하기 (npm axios) - 터미널 새창열기!
  ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/82248f7f-0129-4043-93c0-300000a2afd7)
  
         npm i axios
