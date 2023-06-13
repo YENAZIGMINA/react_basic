@@ -21,5 +21,6 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ac826363-a651-488a-b549-aa17fe0161a1)
 
  # useNavigate 사용
+    *button에는 Link to 불가능
     *navigate("/")
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/4c50e691-dcb7-428a-b35f-13688742ec55)
