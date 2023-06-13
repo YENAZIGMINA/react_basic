@@ -16,7 +16,8 @@
 
 # src 내부 page 폴더 생성후, homepage,about 파일 만들기
 # Link to 는 a태그!
-  * <Link to="/경로"> 작성
+  * Link to="/경로" 작성
+ 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ac826363-a651-488a-b549-aa17fe0161a1)
 
  # useNavigate 사용
