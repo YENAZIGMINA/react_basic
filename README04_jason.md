@@ -61,6 +61,7 @@
         
         ✔axios.post 작성하고
         ✔db.json의 터미널 Resources 주소 복붙 "http://localhost:3004/posts"
+         +++)Resources 주소 ctrl + 클릭하면 port 3004 크롬창 켜짐
         
         axios.post("http://localhost:3004/posts", {
          title: title,
