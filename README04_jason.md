@@ -14,10 +14,7 @@
  # 🎀 2) db.json 파일만들기 - vs code에 만듦
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/6a4fef8d-54bc-4683-b6b7-6904d7d1442b)
 
-
-
-
-# 🎀 3) 가장 root에 db.json 파일생성
+#  가장 root에 db.json 파일생성
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f14ee1fd-0992-47b1-85bb-517e8844a985)
 
 
