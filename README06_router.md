@@ -13,6 +13,9 @@
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/91f3dd7a-624b-4330-a84b-dec603ed071d)
 
+*path - 주소창에 넣을 이름
+
+*element - 이동할 페이지
 
 # src 내부 page 폴더 생성후, homepage,about 파일 만들기
 # Link to 는 a태그!
