@@ -43,5 +43,9 @@
 
 # CreatePage에 내용기입하고 제출하면 연결된 ListPage에 작성한 코드값 - 결과
 
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/b57d36f0-e9bc-4165-8383-0173a7b8f655)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/163efd61-9319-4693-acb8-30faffc55d1f)
+
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/2a33941d-a7b6-4bdd-bc65-c1c1473f96ef)
+
+
 
