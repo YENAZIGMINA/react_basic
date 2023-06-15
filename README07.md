@@ -45,7 +45,7 @@
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/163efd61-9319-4693-acb8-30faffc55d1f)
 
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/2a33941d-a7b6-4bdd-bc65-c1c1473f96ef)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f7967f22-faf3-4760-903b-12a95db4bc89)
 
 
 
