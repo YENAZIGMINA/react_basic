@@ -8,3 +8,9 @@
 
 # router 연결하기 
     새로운 터미널 열고 npm i react-router-dom 입력
+
+
+
+# map함수를 사용해서 route 파일만들기
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/6d77752b-79ea-41ff-a12c-a2a739ee7c90)
+
