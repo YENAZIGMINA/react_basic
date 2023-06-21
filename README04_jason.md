@@ -21,6 +21,8 @@
 
 #  가장 root에 db.json 파일생성
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f14ee1fd-0992-47b1-85bb-517e8844a985)
+
+    *App.js에서 만든 title,body에 내용 작성하고 post 누르면 아래처럼 db.json파일에 값이 넘어옴
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/061dd168-8bdd-479c-846d-dd93e3dca472)
 
 
