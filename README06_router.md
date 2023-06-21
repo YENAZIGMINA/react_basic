@@ -13,7 +13,7 @@
 
  * import axios도 옮기고,
  * return 내용도 옮김
- * 
+ 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/1a8dbaa7-624e-49b2-b87c-01f918fd952d)
 
 
@@ -21,11 +21,12 @@
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/91f3dd7a-624b-4330-a84b-dec603ed071d)
 
-*path - 주소창에 넣을 이름
+*path - 주소창에 넣을 이름 (필수*)
 
-*element - 이동할 페이지
+*element - 이동할 페이지 (필수*)
 
-# src 내부 page 폴더 생성후, homepage,about 파일 만들기
+# src 내부 page 폴더 생성후, homepage,about,list,edit 파일 만들기
+
 # Link to 는 a태그!
   * Link to="/경로" 작성
  
