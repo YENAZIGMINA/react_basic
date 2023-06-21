@@ -29,7 +29,8 @@
 
 
 # 🎀 4) db.json 실행하기 - terminal 입력
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/9d3f83f7-9ba7-49bf-b603-939ab9b324a2)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/20aa931d-7c91-4670-aff5-e59b31ab4fd1)
+
 
 *위와 같이 실행하면 기본 리액트는 port를 3000번을 사용하기 때문에 react와 중복이 된다
 *그래서 port를 변경해주어야 한다!
