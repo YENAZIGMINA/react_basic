@@ -61,7 +61,8 @@
 
 
 # App.js 상단에 복붙 - (axios 연결)
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/f5954cff-0685-495d-b807-61cc1936069c)
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/71762586-6959-4ba6-8b1b-151becae713f)
+
 
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/a854000d-0684-4d65-b05b-ac82c87bf5a7)
