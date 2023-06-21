@@ -34,6 +34,10 @@
 
 *위와 같이 실행하면 기본 리액트는 port를 3000번을 사용하기 때문에 react와 중복이 된다
 *그래서 port를 변경해주어야 한다!
+
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/ee19e1ce-97bd-45e6-9cb1-820e6c8df6e6)
+
+
 ------------------------------------------------------------------------------------
 
         json-server --watch db.json --port 3004
