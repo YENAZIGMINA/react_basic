@@ -9,6 +9,10 @@
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/8198c111-e5a5-4d49-8dea-4aae24e5b7b0)
 
 
+# app.js 내용 blogform으로 내용 옮기기
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/1a8dbaa7-624e-49b2-b87c-01f918fd952d)
+
+
 # Routes로 Route 감싸기 - path, element 작성
 
 ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/91f3dd7a-624b-4330-a84b-dec603ed071d)
