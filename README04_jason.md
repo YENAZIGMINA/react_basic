@@ -51,6 +51,7 @@
         
         
  # 🎀 5) 서버와 통신하기 (npm axios) - 터미널 새창열기!
+ 
  ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/82248f7f-0129-4043-93c0-300000a2afd7)
  
         npm i axios
@@ -60,12 +61,22 @@
  ![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/48fd60d0-2dff-4a7c-8075-4ead3b0da706)
 
 
+# package.json - Debug칸에 
+
+        "db":"npx json-server --watch db.json --port 3004" 작성
+
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/6c051f6a-d69c-4c5a-ae55-5173ca85a9cb)
+
+
+
 # App.js 상단에 복붙 - (axios 연결)
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/71762586-6959-4ba6-8b1b-151becae713f)
+
+ *import axios 먼저하기
+ 
+![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/74e2ed25-37a2-4d18-bcca-9d2dd00af434)
 
 
 
-![image](https://github.com/YENAZIGMINA/react_basic/assets/129706758/a854000d-0684-4d65-b05b-ac82c87bf5a7)
 
         const onSubmit = () => {
         
